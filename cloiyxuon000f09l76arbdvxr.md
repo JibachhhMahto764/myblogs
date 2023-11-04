@@ -4,7 +4,7 @@ datePublished: Fri Nov 03 2023 18:48:19 GMT+0000 (Coordinated Universal Time)
 cuid: cloiyxuon000f09l76arbdvxr
 slug: typescript-vs-javascript-2023
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699031299504/aeb936b6-c145-4751-8446-b5f4880f80e1.png
-tags: javascript, developer, typescript, wemakedevs-hashnode
+tags: javascript, developer, typescript, blogswithcc, wemakedevs-hashnode
 
 ---
 
@@ -25,7 +25,7 @@ let helloWorld = "Hello World";
           [ let helloWorld: string]
 ```
 
-There are many programmers who think that javascript and typescript are the same In fact javascript + more features = typescript
+Many programmers think that javascript and typescript are the same.In fact javascript + more features = typescript
 
 ### Features of Typescript
 
@@ -126,26 +126,23 @@ return Person;
 })();
 ```
 
-## FQA;
+## FQA:-
 
-1. ### why would I use typescript instead of Javascript?
-    
+### 1.why would I use typescript instead of Javascript?
 
 \=&gt; Use TypeScript for static typing, better tooling, and improved code quality, while JavaScript provides more flexibility for smaller projects and simpler code. The choice depends on your project's specific needs.
 
-1. ### Is typescript is harder to learn than Javascript?
-    
+### 2.Is typescript is harder to learn than Javascript?
 
 \=&gt; Yes, typescript is a little harder than javascript.
 
-1. ### which one generates slower code?
-    
-    \=&gt; In Generally, javascript is generating slow code.
-    
-2. ### which one is better for large-scale projects?
-    
-    \=&gt; Typescript is better for large-scale Projects.
-    
+### 3.which one generates slower code?
+
+\=&gt; In Generally, javascript is generating slow code.
+
+### 4.which one is better for large-scale projects?
+
+\=&gt; Typescript is better for large-scale Projects.
 
 ## **Conclusion**
 
