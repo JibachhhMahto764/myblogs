@@ -10,13 +10,13 @@ tags: java, developer, hashnode, blogswithcc, wemakedevs
 
 ## Introduction
 
-**ava** is a versatile, object-oriented programming language known for its platform independence.Java is widely used in web development, mobile app development, desktop applications , and enterprise software. It's also available in open-source implementations like OpenJDK.
+**Java** is a versatile, object-oriented programming language known for its platform independence. Java is widely used in web development, mobile app development, desktop applications , and enterprise software. It's also available in open-source implementations like OpenJDK.
 
 In this bloggs we cover alots of things , we look into how to code in java, what is classes, comments and how to code in intellij idea or more
 
 ### Creating .java file
 
-In java one things that I mention that every things you gone writing in .java it's gone be a classes. every files with the extension of .java it's a class itself.
+In java one things that I mention that every things you gone writing in Java. It's gone be a classes. every files with the extension of .java it's a class itself.
 
 `.java` file involves writing Java code, saving it with a `.java` extension, and compiling it using `javac` . Then, you can run the Java program with the `java` command.
 
