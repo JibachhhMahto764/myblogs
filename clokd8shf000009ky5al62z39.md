@@ -95,7 +95,7 @@ you can change the location where the bytecode (.class files) is generated durin
     
 8. Click Project from the Template
     
-9. Create a file for me
+9. Create a file
     
 10. Finish.......
     
@@ -112,7 +112,13 @@ you can change the location where the bytecode (.class files) is generated durin
 
 ### some Shortcut of Intellij idea:
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p>Action</p></td><td colspan="1" rowspan="1"><p>Shortcut</p></td></tr><tr><td colspan="1" rowspan="1"><p>Search everywhere</p></td><td colspan="1" rowspan="1"><p>Double + Shift</p></td></tr><tr><td colspan="1" rowspan="1"><p>Go to file</p></td><td colspan="1" rowspan="1"><p><kbd>Ctrl + Shift + N</kbd></p></td></tr><tr><td colspan="1" rowspan="1"><p>Go to class</p></td><td colspan="1" rowspan="1"><p><kbd>Ctrl + N</kbd></p></td></tr><tr><td colspan="1" rowspan="1"><p>Go to symbol</p></td><td colspan="1" rowspan="1"><p><kbd>Ctrl + Alt + Shift + N</kbd></p></td></tr><tr><td colspan="1" rowspan="1"><p>Go to declaration</p></td><td colspan="1" rowspan="1"><p><kbd>Ctrl + B</kbd></p></td></tr></tbody></table>
+| Action | Shortcut |
+| --- | --- |
+| Search everywhere | Double + Shift |
+| Go to file | <kbd>Ctrl + Shift + N</kbd> |
+| Go to class | <kbd>Ctrl + N</kbd> |
+| Go to symbol | <kbd>Ctrl + Alt + Shift + N</kbd> |
+| Go to declaration | <kbd>Ctrl + B</kbd> |
 
 # FQA:
 
