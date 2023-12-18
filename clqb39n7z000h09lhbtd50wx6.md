@@ -1,15 +1,16 @@
 ---
-title: "How we access the internet    /"
+title: "How we access the internet"
 datePublished: Mon Dec 18 2023 15:46:43 GMT+0000 (Coordinated Universal Time)
 cuid: clqb39n7z000h09lhbtd50wx6
 slug: how-we-access-the-internet
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1702915183208/d0473034-22e4-42f3-a3d4-1e4883a83864.png
 tags: web-development, webdev
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702914303666/bff2e560-d5c9-4b56-abeb-7fbc110b2aa0.png align="center")
-
 The first connection your computer makes when getting on the internet is to your [LAN, or Local Area Connection](https://www.howtogeek.com/353283/what-is-a-local-area-network-lan/). A LAN is a single network that multiple devices can access in a single location. The obvious example is your modem at home that provides an internet connection and its router (most likely [Wifi](https://www.cisco.com/c/en/us/products/wireless/what-is-wifi.html#:~:text=Wi%2DFi%20is%20a%20wireless,to%20interface%20with%20the%20Internet.&text=Internet%20connectivity%20occurs%20through%20a%20wireless%20router.)) that allows multiple devices like your phone, computer, and TV to share the same connection. Your LAN then connects to an even larger network known as a [WAN, or Wide Area Network](https://www.cisco.com/c/en/us/products/switches/what-is-a-wan-wide-area-network.html). The WAN is a collection of LANs and is most likely a router run by your [ISP or Internet Service Provider](https://en.wikipedia.org/wiki/Internet_service_provider). Your immediate WAN is probably located in your neighborhood, which is then connected to another regional WAN, perhaps for your entire city or town. This cycle is repeated, and after multiple “[hops](https://www.lifewire.com/what-are-hops-hop-counts-2625905)”, you are connected to the “[backbone](https://www.networkworld.com/article/3532318/what-is-the-internet-backbone-and-how-it-works.html)” of the internet.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702915222759/5467f6a0-ec20-4860-9adc-573ad24d57a1.png align="center")
 
 ## **Domain Name System (DNS)**
 
