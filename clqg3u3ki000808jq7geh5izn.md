@@ -37,7 +37,7 @@ setcookie(name,value,expire,domain,secure,httponly);
 ### creating and retrieving a cookie
 
 ```php
-<?
+<?php
 $cookie_name = "user";
 $cookie_value = "JIbachh singh";
 setcookie($cookie_name, $cookie_value, time() + (86400*30),"/";
@@ -56,7 +56,7 @@ echo "Value is : " . $_COOKIE[$cookie_name];
 To delete a cookie use the setcookie() function with an expiration date in the past.
 
 ```php
-<?
+<?php
 // set the expiration date to one hour ago
 setcookie("user" , "", time() - 3600);
 echo" cookie 'user' is deleted. ";
