@@ -65,4 +65,8 @@ chmod +x pass_gen.sh
 ./pass_gen.sh
 ```
 
+## Here the Cheatsheat of the Linux basic and advance commands
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1739798100803/df8e182a-5507-4178-ac93-e747d77a6986.png align="center")
+
 [Here is my GitHub link](https://github.com/JibachhhMahto764/Devops-begginer-to-Advance/blob/main/Linux/linux_projects_1.sh).
