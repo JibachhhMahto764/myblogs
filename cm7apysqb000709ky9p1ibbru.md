@@ -1,13 +1,13 @@
 ---
-title: "Introduction to Cloud Computing"
-seoTitle: "Cloud Computing Basics Explained"
+title: "Beginner's Guide to Understanding Cloud Computing"
+seoTitle: "Cloud Computing Basics for Beginners"
 seoDescription: "Learn cloud computing basics, including service and deployment models, and key advantages. Perfect for beginners seeking a concise overview"
 datePublished: Tue Feb 18 2025 16:49:22 GMT+0000 (Coordinated Universal Time)
 cuid: cm7apysqb000709ky9p1ibbru
-slug: introduction-to-cloud-computing
+slug: beginners-guide-to-understanding-cloud-computing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739895841870/76f3df39-64e3-4e59-a533-b4668a01b23f.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739897301683/b1661e44-d990-4e0a-8041-d2ce37fc62d6.png
-tags: aws, cloud-computing, aws-lambda
+tags: aws, cloud-computing, devops, aws-lambda, 90daysofdevops
 
 ---
 
@@ -23,7 +23,6 @@ tags: aws, cloud-computing, aws-lambda
     
     →**Platform as a Service (PaaS)** is a cloud computing model that provides a **fully managed application development and deployment environment**. It allows developers to build, test, and deploy applications without worrying about managing the underlying infrastructure such as servers, storage, and networking.
     
-
 3. ### Saas(**Software as a Service**)
     
     **Software as a Service (SaaS)** is a cloud computing model where applications are hosted and managed by a cloud provider and made available to users over the internet. Instead of installing and maintaining software on local computers, users can access it via a web browser.
@@ -31,11 +30,11 @@ tags: aws, cloud-computing, aws-lambda
 
 ## cloud computing deployment models
 
-1. public → A **public cloud** is a cloud environment **shared** by multiple users.
+1. public cloud→ A **public cloud** is a cloud environment **shared** by multiple users.
     
-2. private→A **private cloud** is a dedicated cloud environment **used by a single organization.**
+2. private cloud→A **private cloud** is a dedicated cloud environment **used by a single organization.**
     
-3. hybrid→A **hybrid cloud** combines **both public and private clouds.**
+3. hybrid cloud→A **hybrid cloud** combines **both public and private clouds.**
     
 
 ### Advantages of the cloud
@@ -51,3 +50,8 @@ tags: aws, cloud-computing, aws-lambda
 * stop spending money on running and maintaining data centers
     
 * Go global in minutes
+    
+
+### what is virtualization in cloud computing?
+
+virtualization is the core of the cloud computing platform. In the cloud we can create a virtual version of hardware, storage, and OS that can be used to deploy the application.
